@@ -105,7 +105,7 @@
   
 
 ### ┌──(mahdimafia㉿Ruby)-[~]
-└─# cat README.md
+└─#
   
   
 <br/>  

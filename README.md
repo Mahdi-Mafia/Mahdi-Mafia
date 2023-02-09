@@ -89,6 +89,11 @@
 
 <br/>  
 
+
+
+###   
+
+    
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=7ayqrvl7rendp9vz5z9404zks&cover_image=true&theme=default&show_offline=true&background_color=312d2f&bar_color_cover=true)  
 
 <br/>  

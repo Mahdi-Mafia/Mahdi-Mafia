@@ -1,10 +1,10 @@
+### ┌──(mahdimafia㉿Ruby)-[~]
+└─# ./README.md
+
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/825253271132307456/1073125892336926781/Ruby.png" align="center" height="512" width="512" />
 </div>  
   
-
-### ┌──(mahdimafia㉿Ruby)-[~]
-└─# ./README.md
   
   
 

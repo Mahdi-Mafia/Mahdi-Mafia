@@ -4,7 +4,7 @@
   
 
 ### ┌──(mahdimafia㉿Ruby)-[~]
-└─# watch Mahdi-Mafia/README.md
+└─# ./README.md
   
   
 

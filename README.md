@@ -1,8 +1,5 @@
-
-
-### ______________________________________________________________________________  
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/825253271132307456/1073125892336926781/Ruby.png" align="center" style="width: 100%" />
+<img src="https://cdn.discordapp.com/attachments/825253271132307456/1073125892336926781/Ruby.png" align="center" height="512" width="512" />
 </div>  
   
 
@@ -84,34 +81,20 @@
 
 
 ## Github Stats  
-
-
-### _____________________________________________________________________  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Mafia&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Mafia&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
 
+  
 
+<br/>  
 
-### Playing
-
- 
-
-
-
-   
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=7ayqrvl7rendp9vz5z9404zks&cover_image=true&theme=default&show_offline=false&background_color=312d2f&bar_color_cover=true" align="center" style="width: 100%" />  
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=7ayqrvl7rendp9vz5z9404zks&cover_image=true&theme=default&show_offline=true&background_color=312d2f&bar_color_cover=true)  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Mahdi-Mafia&&style=flat-square" align="center" />
 </div>  
   
 

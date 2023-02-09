@@ -4,7 +4,7 @@
   
 
 ### ┌──(mahdimafia㉿Ruby)-[~]
-└─# cat README.md
+└─# watch README.md
   
   
 

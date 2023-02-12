@@ -81,7 +81,8 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Mafia&hide_border=true&layout=compact" align="left" />  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Mafia&theme=github_dark&show_icons=true)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Mafia&theme=github_dark)
 
 <br/>  
 
